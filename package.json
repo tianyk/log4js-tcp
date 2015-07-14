@@ -1,0 +1,11 @@
+{
+  "name": "log4j-tcp",
+  "version": "1.0.0",
+  "description": "log4js tcp appender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tyk",
+  "license": "ISC"
+}
