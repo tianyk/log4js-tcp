@@ -1,23 +1,24 @@
 {
-    "name": "log4j-tcp",
-    "version": "1.0.0",
-    "description": "log4js tcp appender",
-    "main": "index.js",
-    "keywords": [
-        "log4js",
-        "tcp"
-    ],
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/tianyk/log4js-tcp.git"
-    },
-    "author": "tyk",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/tianyk/log4js-tcp/issues"
-    },
-    "homepage": "https://github.com/tianyk/log4js-tcp#readme"
+  "name": "log4js-tcp",
+  "version": "1.0.0",
+  "description": "log4js tcp appender",
+  "main": "index.js",
+  "keywords": [
+    "log4js",
+    "tcp"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyk/log4js-tcp.git"
+  },
+  "author": "tyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianyk/log4js-tcp/issues"
+  },
+  "homepage": "https://github.com/tianyk/log4js-tcp#readme",
+  "dependencies": {}
 }
